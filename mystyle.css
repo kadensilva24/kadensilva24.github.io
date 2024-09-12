@@ -1,0 +1,14 @@
+h1 {
+    color:purple;
+  }
+
+body{
+    background-color: lightgreen;
+}
+#content{
+    color:red;
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:pink;
+}
