@@ -3,7 +3,7 @@ h1 {
   }
 
 body{
-    background-color: lightgreen;
+background-image: url(background.jpg);
 }
 #content{
     color:red;
